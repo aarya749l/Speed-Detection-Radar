@@ -1,0 +1,8 @@
+Arduino Uno
+2 × IR Sensors
+16x2 LCD Display (I2C)
+LED
+Buzzer
+Breadboard
+Jumper Wires
+220 Ohm Resistor

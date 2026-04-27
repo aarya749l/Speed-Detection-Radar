@@ -1,0 +1,26 @@
+IR Sensor 1:
+VCC → 5V
+GND → GND
+OUT → D2
+
+IR Sensor 2:
+VCC → 5V
+GND → GND
+OUT → D3
+
+LED:
+Anode → D5 (via 220Ω resistor)
+Cathode → GND
+
+Buzzer:
+Positive → D4
+Negative → GND
+
+LCD (I2C):
+SDA → A4
+SCL → A5
+VCC → 5V
+GND → GND
+
+Power:
+Arduino powered via USB or 5V supply
